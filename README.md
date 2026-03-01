@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Matthew Samaha
 
-### Full-Stack Developer | Sheridan CST Student | Building Tools for Communities
+### Sheridan Computer Systems Technology Student | Building Tools for Communities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mjsamaha-portfolio-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-samaha-a20980a8/)
@@ -138,11 +138,15 @@ Clean, modern landing page showcasing all OakSignal initiatives and their commun
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=mjsamaha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+[![Quickdraw](https://github.com/mjsamaha/mjsamaha/assets/achievements/quickdraw-default.png)](https://github.com/users/mjsamaha/achievements/quickdraw)
+[![YOLO](https://github.com/mjsamaha/mjsamaha/assets/achievements/yolo-default.png)](https://github.com/users/mjsamaha/achievements/yolo)
+[![Pull Shark](https://github.com/mjsamaha/mjsamaha/assets/achievements/pull-shark-default.png)](https://github.com/users/mjsamaha/achievements/pull-shark)
+
+**Quickdraw** • **YOLO** • **Pull Shark**
 
 </div>
 

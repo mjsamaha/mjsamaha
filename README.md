@@ -142,9 +142,15 @@ Clean, modern landing page showcasing all OakSignal initiatives and their commun
 
 <div align="center">
 
-[![Quickdraw](https://github.com/mjsamaha/mjsamaha/assets/achievements/quickdraw-default.png)](https://github.com/users/mjsamaha/achievements/quickdraw)
-[![YOLO](https://github.com/mjsamaha/mjsamaha/assets/achievements/yolo-default.png)](https://github.com/users/mjsamaha/achievements/yolo)
-[![Pull Shark](https://github.com/mjsamaha/mjsamaha/assets/achievements/pull-shark-default.png)](https://github.com/users/mjsamaha/achievements/pull-shark)
+<a href="https://github.com/users/mjsamaha/achievements/quickdraw">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Achievement">
+</a>
+<a href="https://github.com/users/mjsamaha/achievements/yolo">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Achievement">
+</a>
+<a href="https://github.com/users/mjsamaha/achievements/pull-shark">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Achievement">
+</a>
 
 **Quickdraw** • **YOLO** • **Pull Shark**
 

@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Matthew Samaha
 
-### Sheridan Computer Systems Technology Student | Building Tools for Communities
+### Full-Stack Developer | Sheridan CST Student | Building Tools for Communities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mjsamaha-portfolio-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-samaha-a20980a8/)
@@ -88,32 +88,22 @@ I'm a passionate developer and **Computer Systems Technology** student at **Sher
 ## 💼 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🚢 [Signals Master](https://github.com/mjsamaha/oaksignal-signalsmaster)
-**Mobile-friendly web app for Sea Cadets**
-
-A gamified learning platform featuring interactive quizzes, structured exams, and competitive challenges for mastering naval signal flags and pennants.
-
-**Tech:** Next.js • Clerk • Convex • ShadCN/UI • Vercel
-
-**[🔗 Live Demo](https://oaksignal-signalsmaster.vercel.app/)**
-
-</td>
-<td width="50%">
-
-### 🏠 [OakSignal Landing](https://github.com/mjsamaha/oaksignal-landing)
-**Central hub for OakSignal projects**
-
-Clean, modern landing page showcasing all OakSignal initiatives and their community impact.
-
-**Tech:** Next.js • ShadCN/UI • Vercel
-
-**[🔗 Live Demo](https://mjsamaha.github.io/oaksignal-landing/)**
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚢 <a href="https://github.com/mjsamaha/oaksignal-signalsmaster">Signals Master</a></h3>
+      <p><strong>Mobile-friendly web app for Sea Cadets</strong></p>
+      <p>A gamified learning platform featuring interactive quizzes, structured exams, and competitive challenges for mastering naval signal flags and pennants.</p>
+      <p><strong>Tech:</strong> Next.js • Clerk • Convex • ShadCN/UI • Vercel</p>
+      <p><a href="https://oaksignal-signalsmaster.vercel.app/">🔗 Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/mjsamaha/oaksignal-landing">OakSignal Landing</a></h3>
+      <p><strong>Central hub for OakSignal projects</strong></p>
+      <p>Clean, modern landing page showcasing all OakSignal initiatives and their community impact.</p>
+      <p><strong>Tech:</strong> Next.js • ShadCN/UI • Vercel</p>
+      <p><a href="https://mjsamaha.github.io/oaksignal-landing/">🔗 Live Demo</a></p>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
@@ -128,12 +118,12 @@ Clean, modern landing page showcasing all OakSignal initiatives and their commun
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjsamaha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjsamaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjsamaha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjsamaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjsamaha&theme=tokyonight&hide_border=true&background=0D1117)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjsamaha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -141,27 +131,25 @@ Clean, modern landing page showcasing all OakSignal initiatives and their commun
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-<a href="https://github.com/users/mjsamaha/achievements/quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Achievement">
-</a>
-<a href="https://github.com/users/mjsamaha/achievements/yolo">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Achievement">
-</a>
-<a href="https://github.com/users/mjsamaha/achievements/pull-shark">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Achievement">
-</a>
-
-**Quickdraw** • **YOLO** • **Pull Shark**
-
+  <a href="https://github.com/users/mjsamaha/achievements/quickdraw">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Achievement"/>
+  </a>
+  <a href="https://github.com/users/mjsamaha/achievements/yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Achievement"/>
+  </a>
+  <a href="https://github.com/users/mjsamaha/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Achievement"/>
+  </a>
+  
+  <p><strong>Quickdraw</strong> • <strong>YOLO</strong> • <strong>Pull Shark</strong></p>
 </div>
 
 ---
 
 ## 💼 Experience
 
-### Civilian Instructor | Cadets Canada
-**September 2023 - Present**
+**Civilian Instructor** | **Cadets Canada**  
+*September 2023 - Present*
 
 Leading instruction sessions for youth aged 12-18, focusing on:
 - Naval training and signal communications
@@ -177,7 +165,7 @@ Leading instruction sessions for youth aged 12-18, focusing on:
 ## 🎓 Education
 
 **Computer Systems Technology - Analysis & Design**  
-📍 Sheridan College | January 2024 - April 2027
+📍 *Sheridan College* | January 2024 - April 2027
 
 Focused curriculum in software development with emphasis on:
 - Full-stack application development
@@ -196,10 +184,10 @@ I'm always open to collaborating on interesting projects, especially:
 - 🤝 Community-driven initiatives
 
 **Reach out:**
-- 📧 Email: [matthewsamaha@gmail.com](mailto:matthewsamaha@gmail.com)
-- 💼 Portfolio: [mjsamaha-portfolio-nine.vercel.app](https://mjsamaha-portfolio-nine.vercel.app/)
-- 💬 Discord: [@mjsamaha](https://discord.gg/1068754402690727946)
-- 🔗 LinkedIn: [Matthew Samaha](https://www.linkedin.com/in/matthew-samaha-a20980a8/)
+- 📧 **Email:** [matthewsamaha@gmail.com](mailto:matthewsamaha@gmail.com)
+- 💼 **Portfolio:** [mjsamaha-portfolio-nine.vercel.app](https://mjsamaha-portfolio-nine.vercel.app/)
+- 💬 **Discord:** [@mjsamaha](https://discord.gg/1068754402690727946)
+- 🔗 **LinkedIn:** [Matthew Samaha](https://www.linkedin.com/in/matthew-samaha-a20980a8/)
 
 ---
 
@@ -207,6 +195,6 @@ I'm always open to collaborating on interesting projects, especially:
 
 **Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out.** 😊
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave"/>
 
 </div>

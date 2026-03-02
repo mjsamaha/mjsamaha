@@ -146,35 +146,6 @@ I'm a passionate developer and **Computer Systems Technology** student at **Sher
 
 ---
 
-## 💼 Experience
-
-**Civilian Instructor** | **Cadets Canada**  
-*September 2023 - Present*
-
-Leading instruction sessions for youth aged 12-18, focusing on:
-- Naval training and signal communications
-- Character development and leadership skills
-- Technology integration in cadet education
-
-**Impact:**
-- Developing quiz platform with gamification to enhance learning outcomes
-- Creating digital tools to modernize traditional training methods
-
----
-
-## 🎓 Education
-
-**Computer Systems Technology - Analysis & Design**  
-📍 *Sheridan College* | January 2024 - April 2027
-
-Focused curriculum in software development with emphasis on:
-- Full-stack application development
-- System analysis and design patterns
-- Database management and optimization
-- Agile development methodologies
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to collaborating on interesting projects, especially:

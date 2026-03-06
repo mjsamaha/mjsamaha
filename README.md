@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Matthew Samaha
 
-### Full-Stack Developer | Sheridan CST Student | Building Tools for Communities
+### Sheridan Computer Systems Technology Student | Building Tools for Communities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mjsamaha-portfolio-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-samaha-a20980a8/)

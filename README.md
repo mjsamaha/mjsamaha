@@ -118,12 +118,14 @@ I'm a passionate developer and **Computer Systems Technology** student at **Sher
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjsamaha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjsamaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjsamaha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjsamaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjsamaha&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjsamaha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---

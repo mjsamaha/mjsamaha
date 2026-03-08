@@ -97,11 +97,11 @@ I'm a passionate developer and **Computer Systems Technology** student at **Sher
       <p><a href="https://oaksignal-signalsmaster.vercel.app/">🔗 Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/mjsamaha/oaksignal-landing">OakSignal Landing</a></h3>
+      <h3>🏠 <a href="https://github.com/Oak-Signal/oaksignal-landing">OakSignal Landing</a></h3>
       <p><strong>Central hub for OakSignal projects</strong></p>
       <p>Clean, modern landing page showcasing all OakSignal initiatives and their community impact.</p>
       <p><strong>Tech:</strong> Next.js • ShadCN/UI • Vercel</p>
-      <p><a href="https://mjsamaha.github.io/oaksignal-landing/">🔗 Live Demo</a></p>
+      <p><a href="https://oak-signal.github.io/oaksignal-landing//">🔗 Live Demo</a></p>
     </td>
   </tr>
 </table>
